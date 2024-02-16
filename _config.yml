@@ -27,7 +27,7 @@ additional_links:
   url: https://www.itsgoingto.be
 
 # About Section
-# about_title: About Me
+# about_title: Sobre mi
 about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
  Hola! Mi nombre es Jahzeel, soy estudiante de ingenieria informatica en la Universidad de Guadalajara. Me gusta el desarrollo Front-end.
@@ -35,7 +35,7 @@ about_content: | # this will include new lines to allow paragraphs
   Soy muy bueno en: <mark>Comer pizza y tacos</mark> <mark>Jugar con Vayne</mark> <mark>Desarrollo web Front-end</mark>
 
 content:
-  - title: Projects # Title for the section
+  - title: Proyectos # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
@@ -48,9 +48,9 @@ content:
             url: github.com/JahzeelVFrias/Presentation_page 
             
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          Aquí deberia poner mis proyectos, pero ya estoy trabajando en ellos jajaja
+        description: | 
+          Empecé en el desarrollo web Front-end usando <mark>HTML</mark> <mark>HTML</mark> <mark>CSS</mark> <mark>Javascript</mark>
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -87,7 +87,7 @@ content:
       - [Becoming a Nakama](https://www.youtube.com/watch?v=dXAtu-Dei_o)
 
       Mira este gato:  
-      ![Cat](/Presentation/images/709b19141eb96c7ca182ec70bac4a764.jpg "Cat")
+      ![Cat](/Presentation/images/709b19141eb96c7ca182ec70bac4a764.jpg"Cat")
 
 # Footer
 footer_show_references: true
