@@ -77,7 +77,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Todos los dias es increible pertenecer a la poderosisima
 
-  - title: A Little More About Me
+  - title: Un poco más sobre mi
     layout: text
     content: | # this will include new lines to allow paragraphs
       Ademas de mis intereses en el desarrollo de software, estos son lagunos de mis pasatiempos:
@@ -86,8 +86,8 @@ content:
       - Leer libros de superación personal (Aunque no siempre los sigo jajaja)
       - [Otro nakama más](https://www.youtube.com/watch?v=dXAtu-Dei_o)
 
-      Mira este gato:  
-      ![Cat](/images/709b19141eb96c7ca182ec70bac4a764.jpg "Cat")
+      Mira este gatito:
+    about_profile_image: images/709b19141eb96c7ca182ec70bac4a764.jpg
 
 # Footer
 footer_show_references: true
