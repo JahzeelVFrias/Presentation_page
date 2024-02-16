@@ -87,7 +87,10 @@ content:
       - [Otro nakama más](https://www.youtube.com/watch?v=dXAtu-Dei_o)
 
       Mira este gatito:
-    about_profile_image: images/709b19141eb96c7ca182ec70bac4a764.jpg
+       Look at this cool image  
+      ![Trees](/Presentation_page/images/709b19141eb96c7ca182ec70bac4a764.jpg "Trees")
+      
+      
 
 # Footer
 footer_show_references: true
