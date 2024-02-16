@@ -32,7 +32,7 @@ about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
  Hola! Mi nombre es Jahzeel, soy estudiante de ingenieria informatica en la Universidad de Guadalajara. Me gusta el desarrollo Front-end.
 
-  I am most skilled in: <mark>Eating Pizza</mark>
+  Soy muy bueno en: <mark>Comer pizza y tacos</mark> <mark>Jugar con Vayne</mark> <mark>Desarrollo web Front-end</mark>
 
 content:
   - title: Projects # Title for the section
@@ -46,9 +46,7 @@ content:
           - title:  JahzeelVFrias/Presentation_page
             icon: fab fa-github
             url: github.com/JahzeelVFrias/Presentation_page 
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+            
         quote: >
           This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
@@ -88,8 +86,8 @@ content:
       - Leer libros de superación personal (Aunque no siempre los sigo jajaja)
       - [Becoming a Nakama](https://www.youtube.com/watch?v=dXAtu-Dei_o)
 
-      Look at this little cat  
-      ![Cat](/modern-resume-theme/images/709b19141eb96c7ca182ec70bac4a764.jpg "Cat")
+      Mira este gato:  
+      ![Cat](/Presentation/images/709b19141eb96c7ca182ec70bac4a764.jpg "Cat")
 
 # Footer
 footer_show_references: true
