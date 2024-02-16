@@ -82,10 +82,10 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Pop Music
+      Ademas de mis intereses en el desarrollo de software, estos son lagunos de mis pasatiempos:
+      - Pintar
       - Gaming (League of Legends)
-      - Cocking
+      - Leer libros de superación personal (Aunque no siempre los sigo jajaja)
       - [Becoming a Nakama](https://www.youtube.com/watch?v=dXAtu-Dei_o)
 
       Look at this little cat  
